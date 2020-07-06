@@ -1,10 +1,10 @@
-# ee.ydv - "Youtube Deep Viewer"
+# ee.ydv ("Youtube Deep Viewer")
 This console app can download any part (interval) of any Youtube live stream between point at 7 days ago and current time.
 <br><br>
 
 ## Quick Start
 1. Unpack *ee.ydv_fullpack.zip*.
-2. Open *ee.ydv.ini* file in a text editor, and fill it in according to an existing sample. Minimum required information - YouTube ID and at least one interval.
+2. Open *ee.ydv.ini* file in a text editor, and fill it in according to an existing sample. Minimum required information - YouTube video ID and at least one interval.
 3. After the ini file is saved, run *ee.ydv.exe*.
 <br>
 
@@ -30,7 +30,7 @@ This console app can download any part (interval) of any Youtube live stream bet
 ```
 "c:\path\to\ee.ydv.exe" "c:\path\to\optional\file.ini"
 ```
-* Only the first five intervals specified in the ini-file will be downloaded
+* Only the first five valid intervals specified in the ini-file will be downloaded
 * Maximum interval length is limited to 15 minutes
 * Video is downloaded in the highest possible quality
 * 168 past hours of live stream are usually available, regardless of how much is available in the web version (12 hours, 4 or zero).
