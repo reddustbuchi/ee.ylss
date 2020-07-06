@@ -3,7 +3,7 @@ This console application can download any part (interval) of any Youtube live st
 <br><br>
 
 ## Quick Start
-1. Unpack *ee.ydv_fullpack.zip*.
+1. Unpack files from *ee.ydv.7z* and *ffmpeg.7z* into one folder.
 2. Open *ee.ydv.ini* file in a text editor, and fill it in according to an existing sample. Minimum required information - YouTube video ID and at least one interval.
 3. After the ini file is saved, run *ee.ydv.exe*.
 <br>
@@ -15,7 +15,7 @@ This console application can download any part (interval) of any Youtube live st
 ## Requirements
 * Windows 7+ or Windows Server 2012 R2+
 * Google Chrome 60+
-* FFmpeg executable library (*ee.ydv_fullpack.zip* contains [Zeranoe static build](https://ffmpeg.zeranoe.com/builds) version 4.3 x86)
+* FFmpeg executable library (file *ffmpeg.7z* contains [Zeranoe static build](https://ffmpeg.zeranoe.com/builds), version 4.3 x86)
 <br>
 
 ## Tested Configuration
