@@ -30,11 +30,11 @@ This console application can download any part (interval) of any Youtube live st
 ```
 "c:\path\to\ee.ydv.exe" "c:\path\to\optional\file.ini"
 ```
-* Only the first five valid intervals specified in the ini-file will be downloaded
+* Only the first 5 valid intervals specified in the ini-file will be downloaded
 * Maximum interval length is limited to 15 minutes
-* Video is downloaded in the highest possible quality
-* 168 past hours of live stream are usually available, regardless of how much is available in the web version (12 hours, 4 or zero).
-Also, sometimes it available between 168 and 169 hours ago, but at a very low download speed.
+* Video is downloaded with the highest possible quality
+* 168 past hours of live stream are usually available, regardless of how much is available in the web version in browser (12 hours, 4 or zero).
+Also, sometimes video available between 168 and 169 hours ago, but at a very low download speed.
 * The live stream interruptions can lead to a shift in the estimated time.
 For example, if the broadcast was interrupted for 1 hour, in this case 24-hour-old frames will be displayed as 23-hour-old.
 <br>
