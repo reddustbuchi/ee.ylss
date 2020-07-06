@@ -1,11 +1,11 @@
-# ee.ydv
-ee.ydv ("Youtube Deep Viewer") can download any part (interval) of any Youtube live stream between point at 7 days ago and current time.
-<br>
+# ee.ydv - "Youtube Deep Viewer"
+This console app can download any part (interval) of any Youtube live stream between point at 7 days ago and current time.
+<br><br>
 
 ## Quick Start
-1. Download and unpack *ee.ydv_fullpack.zip*.
+1. Unpack *ee.ydv_fullpack.zip*.
 2. Open *ee.ydv.ini* file in a text editor, and fill it in according to an existing sample. Minimum required information - YouTube ID and at least one interval.
-3. After the file *ee.ydv.ini* is saved, run the file *ee.ydv.exe*.
+3. After the ini file is saved, run *ee.ydv.exe*.
 <br>
 
 ## Version
@@ -13,8 +13,8 @@ ee.ydv ("Youtube Deep Viewer") can download any part (interval) of any Youtube l
 <br>
 
 ## Requirements
-* Windows 7 and later or Windows Server 2012 R2 and later
-* Google Chrome 60 and later
+* Windows 7+ or Windows Server 2012 R2+
+* Google Chrome 60+
 * FFmpeg executable library (included in *ee.ydv_fullpack.zip*)
 <br>
 
@@ -26,7 +26,7 @@ ee.ydv ("Youtube Deep Viewer") can download any part (interval) of any Youtube l
 <br>
 
 ## Usage information
-* Any another valid ini-file may be specified as an argument:
+* Ini-file may be specified as an argument:
 ```
 "c:\path\to\ee.ydv.exe" "c:\path\to\optional\file.ini"
 ```
