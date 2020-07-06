@@ -26,7 +26,7 @@ This console application can download any part (interval) of any Youtube live st
 <br>
 
 ## Usage information
-* Ini-file may be specified as an argument:
+* Ini-file can be specified as the argument when starting the program:
 ```
 "c:\path\to\ee.ydv.exe" "c:\path\to\optional\file.ini"
 ```
