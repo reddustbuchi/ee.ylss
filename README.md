@@ -15,14 +15,14 @@ This console application can download any part (interval) of any Youtube live st
 ## Requirements
 * Windows 7+ or Windows Server 2012 R2+
 * Google Chrome 60+
-* FFmpeg executable library (included in *ee.ydv_fullpack.zip*)
+* FFmpeg executable library (*ee.ydv_fullpack.zip* contains ([Zeranoe static build version](https://ffmpeg.zeranoe.com/builds))
 <br>
 
 ## Tested Configuration
 * Microsoft Windows 10 Pro x64 build 1903
 * Google Chrome 62 x86 (portable)
 * Google Chrome 83 x64 (installed)
-* FFmpeg 4.3 x86 ([Zeranoe static build](https://ffmpeg.zeranoe.com/builds))
+* FFmpeg 4.3 x86
 <br>
 
 ## Usage information
