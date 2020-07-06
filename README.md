@@ -1,5 +1,5 @@
 # ee.ydv ("Youtube Deep Viewer")
-This console application can download any part (interval) of any Youtube live stream between point at 7 days ago and current time.
+This console application can download any part (interval) of any Youtube live stream between point at 7 days ago and current time
 <br><br>
 
 ## Quick Start
@@ -33,10 +33,8 @@ This console application can download any part (interval) of any Youtube live st
 * Only the first 5 valid intervals specified in the ini-file will be downloaded
 * Maximum interval length is limited to 15 minutes
 * Video is downloaded with the HD quality (if possible)
-* 168 past hours of live stream are usually available, regardless of how much is available in the web version in browser (12 hours, 4 or zero).
-Also, sometimes video available between 168 and 169 hours ago, but at a very low download speed.
-* The live stream interruptions can lead to a shift in the estimated time.
-For example, if the broadcast was interrupted for 1 hour, in this case 24-hour-old frames will be displayed as 23-hour-old.
+* 168 past hours of live stream are usually available, regardless of how much is available in the web version in browser (12 hours, 4 or zero). Also, sometimes video available between 168 and 169 hours ago, but at a very low download speed
+* The live stream interruptions can lead to a shift in the estimated time. For example, if the broadcast was interrupted for 1 hour, in this case 24-hour-old frames will be displayed as 23-hour-old
 <br>
 
 ## Developer information
