@@ -1,2 +1,50 @@
 # ee.ydv
-ee.ydv ("Youtube Deep Viewer") can download any part (interval) of any Youtube live stream between point at 7 days ago and current time
+ee.ydv ("Youtube Deep Viewer") can download any part (interval) of any Youtube live stream between point at 7 days ago and current time.
+<br>
+
+## Quick Start
+1. Download and unpack *ee.ydv_fullpack.zip*.
+2. Open *ee.ydv.ini* file in a text editor, and fill it in according to an existing sample. Minimum required information - YouTube ID and at least one interval.
+3. After the file *ee.ydv.ini* is saved, run the file *ee.ydv.exe*.
+<br>
+
+## Version
+1.2 (20200706)<br>
+<br>
+
+## Requirements
+* Windows 7 and later or Windows Server 2012 R2 and later
+* Google Chrome 60 and later
+* FFmpeg executable library (included in *ee.ydv_fullpack.zip*)
+<br>
+
+## Tested Configuration
+* Microsoft Windows 10 Pro x64 build 1903
+* Google Chrome 62 x86 (portable)
+* Google Chrome 83 x64 (installed)
+* FFmpeg 4.3 x86 ([Zeranoe static build](https://ffmpeg.zeranoe.com/builds))
+<br>
+
+## Usage information
+* Any another valid ini-file may be specified as an argument:
+```
+"c:\path\to\ee.ydv.exe" "c:\path\to\optional\file.ini"
+```
+* Only the first five intervals specified in the ini-file will be downloaded
+* Maximum interval length is limited to 15 minutes
+* Video is downloaded in the highest possible quality
+* 168 past hours of live stream are usually available, regardless of how much is available in the web version (12 hours, 4 or zero).
+Also, sometimes it available between 168 and 169 hours ago, but at a very low download speed.
+* The live stream interruptions can lead to a shift in the estimated time.
+For example, if the broadcast was interrupted for 1 hour, in this case 24-hour-old frames will be displayed as 23-hour-old.
+<br>
+
+## Developer information
+* C#
+* .NET Core 3.1
+* Visual Studio Community 2019 (Version 16.1.6)
+<br>
+
+## Author
+* [**Yauheni Rytsikau**](https://github.com/rytsikau)
+<br>
