@@ -47,4 +47,3 @@ For example, if the broadcast was interrupted for 1 hour, in this case 24-hour-o
 
 ## Author
 * [**Yauheni Rytsikau (Eugen Rytikov)**](https://github.com/rytsikau)
-<br>
