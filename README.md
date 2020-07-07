@@ -1,6 +1,9 @@
 # ee.Ydv ("Youtube deep viewer") - version 1.2 (20200706)
 This console application can download any part of YouTube live stream between point at 7 days ago and current time
 
+## Download
+[Download current version](https://github.com/rytsikau/ee.Ydv/archive/master.zip)
+
 ## Quick Start
 1. Unzip files from *ee.ydv.7z* and *ffmpeg.7z* into one folder.
 2. Open *ee.ydv.ini* file in a text editor, and fill it in according to an existing sample. Minimum required information - YouTube video ID and at least one time interval.
