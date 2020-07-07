@@ -8,10 +8,6 @@ This console application can download any part (interval) of any Youtube live st
 3. After the ini file is saved, run *ee.ydv.exe*.
 <br>
 
-## Version
-1.2 (20200706)<br>
-<br>
-
 ## Requirements
 * Windows 7+ or Windows Server 2012 R2+
 * Google Chrome 60+
