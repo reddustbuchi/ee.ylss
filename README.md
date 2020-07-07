@@ -1,10 +1,8 @@
 # ee.Ydv
 
-version 1.2 (20200706)
-
 This console application can download any part of YouTube live stream between point at 7 days ago and current time
 
-## [download](https://github.com/rytsikau/ee.Ydv/archive/master.zip)<br><br><br>
+[>> download version 1.2 (20200706)](https://github.com/rytsikau/ee.Ydv/archive/master.zip)<br><br><br>
 
 ## Quick Start
 1. Unzip files from *ee.ydv.7z* and *ffmpeg.7z* into one folder.
