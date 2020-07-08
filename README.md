@@ -1,5 +1,5 @@
 # ee.Ydv
-This console application can download any part of YouTube live stream between point at 7 days ago and current time
+This console application can download part of YouTube live stream
 
 [>> download version 1.2](https://github.com/rytsikau/ee.Ydv/raw/master/ee.Ydv_1.2.7z)
 
