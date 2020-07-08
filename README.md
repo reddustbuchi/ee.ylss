@@ -1,5 +1,5 @@
 # ee.Ydv
-This console application can download part of YouTube live stream
+This console application can download a required part of YouTube live stream
 
 [>> download version 1.2](https://github.com/rytsikau/ee.Ydv/raw/master/ee.Ydv_1.2.7z)
 
