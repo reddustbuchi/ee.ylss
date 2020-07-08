@@ -1,23 +1,23 @@
 # ee.Ydv
 This console application can download any part of YouTube live stream between point at 7 days ago and current time
 
-[>> download version 1.2 (20200706)](https://github.com/rytsikau/ee.Ydv/archive/master.zip)
+[>> download version 1.2](https://github.com/rytsikau/ee.Ydv/raw/master/ee.Ydv_1.2.7z)
 
 ## Quick Start
-1. Unzip files from *ee.ydv.7z* and *ffmpeg.7z* into one folder
+1. Unzip [this](https://github.com/rytsikau/ee.Ydv/raw/master/ffmpeg.7z) file, and put *ffmpeg.exe* to the folder with *ee.Ydv.exe*
 2. Open *ee.ydv.ini* file in a text editor, and fill it in according to an existing sample. Minimum required information - YouTube video ID and at least one time interval
 3. After the ini file is saved, run *ee.ydv.exe*
 
 ## Requirements
 * Windows 7+ or Windows Server 2012 R2+
 * Google Chrome 60+
-* FFmpeg (file *ffmpeg.7z* contains [Zeranoe static build](https://ffmpeg.zeranoe.com/builds), version 4.3 x86)
+* FFmpeg executable library
 
 ## Tested Configuration
 * Microsoft Windows 10 Pro x64 build 1903
 * Google Chrome 62 x86 (portable)
 * Google Chrome 83 x64 (installed)
-* FFmpeg 4.3 x86
+* FFmpeg 4.3 x86 ([Zeranoe static build](https://ffmpeg.zeranoe.com/builds))
 
 ## Usage information
 * Ini-file can be specified as the argument when starting the program:
