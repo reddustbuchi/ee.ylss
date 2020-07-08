@@ -30,8 +30,7 @@ This console application can download any part of YouTube live stream between po
 * Only the first 5 valid intervals will be downloaded
 * Maximum interval length is limited to 15 minutes
 * Video is downloaded with the HD quality (if possible)
-* 168 past hours of live stream are usually available, regardless of how much is available in the web version in browser (12 hours, 4 or 0). Also, sometimes video available between 168 and 169 hours ago, but at a very low download speed
-* The live stream interruptions can lead to a shift in the estimated time. For example, if the stream was interrupted for 1 hour, in this case 24-hour-old frames will be displayed as 23-hour-old
+* The live stream interruptions can lead to a shift in the estimated time. For example, if the stream was interrupted for 1 hour, in this case 12-hour-old frames will be displayed as 11-hour-old
 
 ## Developer information
 * C#
