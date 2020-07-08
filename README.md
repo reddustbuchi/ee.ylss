@@ -3,6 +3,9 @@ This console application can download any part of YouTube live stream between po
 
 [>> download version 1.2](https://github.com/rytsikau/ee.Ydv/raw/master/ee.Ydv_1.2.7z)
 
+## Program screenshot
+<img src="https://raw.githubusercontent.com/rytsikau/ee.Ydv/master/Program%20screenshot.png">
+
 ## Quick Start
 1. Unzip [this](https://github.com/rytsikau/ee.Ydv/raw/master/ffmpeg.7z) file, and put *ffmpeg.exe* to the folder with *ee.Ydv.exe*
 2. Open *ee.ydv.ini* file in a text editor, and fill it in according to an existing sample. Minimum required information - YouTube video ID and at least one time interval
