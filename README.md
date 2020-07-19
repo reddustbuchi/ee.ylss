@@ -1,15 +1,15 @@
-# ee.ydv
+# ee.ylss
 This console application can download a required part of YouTube live stream while it's streaming
 
-[>> download version 2007](https://github.com/rytsikau/ee.Ydv/raw/master/ee.ydv_2007.7z)
+[>> download version 20.072](https://github.com/rytsikau/ee.ylss/raw/master/ee.ylss_20.072.7z)
 
 ## Program screenshot
-<img src="https://raw.githubusercontent.com/rytsikau/ee.Ydv/master/screenshot.png">
+<img src="https://raw.githubusercontent.com/rytsikau/ee.ylss/master/screenshot.png">
 
 ## Quick Start
-1. Unzip [this](https://github.com/rytsikau/ee.Ydv/raw/master/ffmpeg.7z) file, and put *ffmpeg.exe* to the folder with *ee.ydv.exe*
-2. Open *ee.ydv.ini* file in a text editor, and fill it in according to an existing sample. Minimum required information - YouTube video ID and at least one time interval
-3. After the ini file is saved, run *ee.ydv.exe*
+1. Unzip [this](https://github.com/rytsikau/ee.ylss/raw/master/ffmpeg.7z) file, and put *ffmpeg.exe* to the folder with *ee.ylss.exe*
+2. Open *ee.ylss.ini* file in a text editor, and fill it in according to an existing sample. Minimum required information - YouTube video ID and at least one time interval
+3. After the ini file is saved, run *ee.ylss.exe*
 
 ## Requirements
 * Windows 7+ or Windows Server 2012 R2+
@@ -25,11 +25,11 @@ This console application can download a required part of YouTube live stream whi
 ## Usage information
 * Ini-file can be specified as the argument when starting the program:
 ```
-"c:\path\to\ee.ydv.exe" "c:\path\to\optional\file.ini"
+"c:\path\to\ee.ylss.exe" "c:\path\to\optional\file.ini"
 ```
-* Only the first 5 valid intervals will be downloaded
-* Maximum interval length is limited to 15 minutes
-* Video is downloaded with the HD quality (if possible)
+* Only the first 15 valid intervals will be downloaded
+* Maximum interval length is limited to 60 minutes
+* Video is downloaded with maximum available quality
 * The live stream interruptions can lead to a shift in the estimated time. For example, if the stream was interrupted for 1 hour, in this case 12-hour-old frames will be displayed as 11-hour-old
 
 ## Developer information
@@ -38,7 +38,7 @@ This console application can download a required part of YouTube live stream whi
 * Visual Studio Community 2019
 
 ## Author
-[(c) 2020 Yauheni Rytsikau](mailto:y.rytsikau@gmail.com)
+[(c) Yauheni Rytsikau, 2020](mailto:y.rytsikau@gmail.com)
 
 ---
 [rytsikau.github.io](https://rytsikau.github.io)
