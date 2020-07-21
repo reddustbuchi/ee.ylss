@@ -1,26 +1,27 @@
 # ee.ylss
-ee.ylss - YouTube Live Stream Saver. This console app can download and save required previous part of any YouTube live stream
+ee.ylss - YouTube LiveStream Saver. This console app can download and save required previous part of any YouTube live stream
 
-[>> download version 20.073](https://github.com/rytsikau/ee.ylss/raw/master/ee.ylss_20.073.7z)
+[>> download version 20.074](https://github.com/rytsikau/ee.ylss/raw/master/ee.ylss_20.074.7z)
 
 ## Program screenshot
-<img src="https://raw.githubusercontent.com/rytsikau/ee.ylss/master/ee.ylss_20.073_screenshot.png">
+<img src="https://raw.githubusercontent.com/rytsikau/ee.ylss/master/ee.ylss_screenshot.png">
 
 ## Quick Start
-1. Unzip [this](https://github.com/rytsikau/ee.ylss/raw/master/ffmpeg.7z) file, and put *ffmpeg.exe* to the folder with *ee.ylss.exe*
-2. Open *ee.ylss.ini* file in a text editor, and fill it in according to an existing sample. Minimum required information - YouTube stream URL and at least one time interval
+1. Unzip [this](https://github.com/rytsikau/ee.ylss/raw/master/ffmpeg.7z) archive, and put *ffmpeg.exe* to the folder with *ee.ylss.exe*
+2. Open *ee.ylss.ini* in a text editor, and fill it in according to an existing sample. Minimum required information - YouTube stream URL and at least one time interval
 3. After the ini file is saved, run *ee.ylss.exe*
 
 ## Requirements
-* Windows 7+ or Windows Server 2012 R2+
-* Google Chrome 60+
 * FFmpeg executable library
+* Google Chrome 60+
+* Windows XP or later / Windows Server 2003 or later
 
 ## Tested Configuration
-* Microsoft Windows 10 Pro x64 build 1903
+* FFmpeg 4.3 x86 ([Zeranoe static build](https://ffmpeg.zeranoe.com/builds))
 * Google Chrome 62 x86 (portable)
 * Google Chrome 83 x64 (installed)
-* FFmpeg 4.3 x86 ([Zeranoe static build](https://ffmpeg.zeranoe.com/builds))
+* Microsoft Windows 10 Pro x32 version 1909
+* Microsoft Windows 10 Pro x64 version 1903
 
 ## Usage information
 * Ini-file can be specified as argument when starting the program:
@@ -34,7 +35,7 @@ ee.ylss - YouTube Live Stream Saver. This console app can download and save requ
 
 ## Developer information
 * C#
-* .NET Core 3.1
+* .NET Framework 4.0
 * Visual Studio Community 2019
 
 ## Tags
