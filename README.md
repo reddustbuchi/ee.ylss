@@ -30,7 +30,7 @@ ee.ylss - YouTube Live Stream Saver. This console app can download and save requ
 * Number of intervals is limited to 10
 * Maximum interval length is limited to 60 minutes
 * Stream is saved with maximum available quality
-* The live stream interruptions can lead to a shift in the estimated time. For example, if the stream was interrupted for 1 hour, in this case 12-hour-old frames will be displayed as 11-hour-old
+* Live stream interruptions (on the side of the streamer) can lead to a shift in the estimated time. For example, if the stream was interrupted for 1 hour, in this case 12-hour-old frames will be displayed as 11-hour-old
 
 ## Developer information
 * C#
