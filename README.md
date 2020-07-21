@@ -44,4 +44,4 @@ livestream stream youtube youtube-download youtube-downloader youtube-downloader
 [(c) Yauheni Rytsikau, 2020](mailto:y.rytsikau@gmail.com)
 
 ---
-[>> program page on https://github.io](https://rytsikau.github.io/ee.ylss)
+[[program page]](https://rytsikau.github.io/ee.ylss) [[start page]](https://rytsikau.github.io)
