@@ -1,5 +1,5 @@
 # ee.ylss
-ee.ylss - YouTube Live Stream Saver. This console app can download and save the required previous part of any YouTube live stream
+ee.ylss - YouTube Live Stream Saver. This console app can download and save required previous part of any YouTube live stream
 
 [>> download version 20.073](https://github.com/rytsikau/ee.ylss/raw/master/ee.ylss_20.073.7z)
 
