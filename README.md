@@ -38,10 +38,10 @@ ee.ylss - YouTube Live Stream Saver. This console app can download and save requ
 * Visual Studio Community 2019
 
 ## Tags
-youtube live stream save download previous last hours saver downloader livestream
+livestream stream youtube youtube-download youtube-downloader youtube-downloader-app youtube-live-stream youtube-livestream youtube-livestreams youtube-saver youtube-stream
 
 ## Author
 [(c) Yauheni Rytsikau, 2020](mailto:y.rytsikau@gmail.com)
 
 ---
-[rytsikau.github.io](https://rytsikau.github.io)
+[>> program page on https://github.io](https://rytsikau.github.io/ee.ylss)
