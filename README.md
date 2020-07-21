@@ -1,5 +1,5 @@
 # ee.ylss
-This console application can save (download) a required part of YouTube live stream while it's streaming
+This console app can download and save the required previous part of any YouTube live stream
 
 [>> download version 20.073](https://github.com/rytsikau/ee.ylss/raw/master/ee.ylss_20.073.7z)
 
@@ -36,6 +36,9 @@ This console application can save (download) a required part of YouTube live str
 * C#
 * .NET Core 3.1
 * Visual Studio Community 2019
+
+## Tags
+youtube live stream save download previous last hours saver downloader livestream
 
 ## Author
 [(c) Yauheni Rytsikau, 2020](mailto:y.rytsikau@gmail.com)
