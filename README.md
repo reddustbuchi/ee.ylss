@@ -1,13 +1,13 @@
 # ee.ylss
 ee.ylss - YouTube LiveStream Saver. This console app can download and save required previous part of any YouTube live stream
 
-[>> download version 20.074](https://github.com/rytsikau/ee.ylss/raw/master/ee.ylss_20.074.7z)
+[>> download version 20.074](https://github.com/rytsikau/ee.ylss/raw/master/ee.ylss_20.074.zip)
 
 ## Program screenshot
 <img src="https://raw.githubusercontent.com/rytsikau/ee.ylss/master/ee.ylss_screenshot.png">
 
 ## Quick Start
-1. Unzip [this](https://github.com/rytsikau/ee.ylss/raw/master/ffmpeg.7z) archive, and put *ffmpeg.exe* to the folder with *ee.ylss.exe*
+1. Unzip downloaded archive
 2. Open *ee.ylss.ini* in a text editor, and fill it in according to an existing sample. Minimum required information - YouTube stream URL and at least one time interval
 3. After the ini file is saved, run *ee.ylss.exe*
 
