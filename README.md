@@ -39,7 +39,7 @@ ee.ylss (YouTube Livestream Saver) is a console utility to download and save the
 * Visual Studio Community 2019
 
 ## Tags
-livestream stream youtube youtube-download youtube-downloader youtube-downloader-app youtube-live-stream youtube-livestream youtube-livestreams youtube-saver youtube-stream
+livestream stream youtube youtube-download youtube-downloader youtube-downloader-app youtube-live-stream youtube-livestream youtube-livestreams youtube-saver youtube-stream youtube-rewind livestream-rewind
 
 ## Author
 [(c) Yauheni Rytsikau, 2020](mailto:y.rytsikau@gmail.com)
