@@ -1,5 +1,5 @@
 # ee.ylss
-ee.ylss (Youtube LiveStream Saver) is a console utility to download and save the specified part of any YouTube live stream — even if it was broadcast hours ago. So, this is not a current time recorder — with *ee.ylss* you can «rewind» a live stream as many hours back as needed.
+ee.ylss (Youtube LiveStream Saver) is a console utility to download and save the specified part of any YouTube livestream - even if it was broadcast hours ago. So, this is not a current time recorder - with *ylss* you always have the DVR function, being able to «rewind» the live stream as many hours back as needed.
 
 [>> download version 20.074](https://github.com/rytsikau/ee.ylss/raw/master/ee.ylss_20.074.zip)
 
@@ -39,7 +39,7 @@ ee.ylss (Youtube LiveStream Saver) is a console utility to download and save the
 * Visual Studio Community 2019
 
 ## Tags
-livestream stream youtube youtube-download youtube-downloader youtube-downloader-app youtube-live-stream youtube-livestream youtube-livestreams youtube-saver youtube-stream youtube-rewind livestream-rewind
+livestream stream youtube youtube-download youtube-downloader youtube-downloader-app youtube-live-stream youtube-livestream youtube-livestreams youtube-saver youtube-stream youtube-rewind livestream-rewind youtube-dvr livestream-dvr
 
 ## Author
 [(c) Yauheni Rytsikau, 2020](mailto:y.rytsikau@gmail.com)
