@@ -1,5 +1,5 @@
 # ee.ylss
-*ee.ylss* (Youtube LiveStream Saver) is a console utility to download the specified time interval of any YouTube livestream - even if it was hours ago. So, this is not a «current time» recorder - with *ee.ylss* you always have the DVR function, being able to «rewind» the live stream as many hours back as needed.
+*ee.ylss* (Youtube LiveStream Saver) is a console utility to download the specified time interval of any YouTube livestream - even if it was hours ago. This is not a "current time" recorder - with *ee.ylss* you always have the DVR function, being able to "rewind" the live stream as many hours back as needed.
 
 [>> download version 20.074](https://github.com/rytsikau/ee.ylss/raw/master/ee.ylss_20.074.zip)
 
@@ -7,19 +7,20 @@
 <img src="https://raw.githubusercontent.com/rytsikau/ee.ylss/master/ee.ylss_screenshot.png">
 
 ## Quick Start
-1. Unzip downloaded archive
-2. Open *ee.ylss.ini* in a text editor, and fill it in according to an existing sample. Minimum required information - YouTube stream URL and at least one time interval
-3. After the ini file is saved, run *ee.ylss.exe*
+1. Unpack the downloaded archive
+2. Open *ee.ylss.ini* in a text editor and fill in according to the existing sample. The minimum information required is the YouTube stream URL and at least one time interval
+3. Save the ini file and run *ee.ylss.exe*
 
 ## Usage information
-* Ini-file can be specified as argument when starting the program:
+* Ini file can be specified as an argument when starting the program:
 ```
 "c:\path\to\ee.ylss.exe" "c:\path\to\optional\file.ini"
 ```
-* Number of intervals is limited to 10
-* Maximum interval length is limited to 60 minutes
-* Stream is saved with maximum available quality
-* Live stream interruptions (on the side of the streamer) can lead to a shift in the estimated time. For example, if the stream was interrupted for 1 hour, in this case 12-hour-old frames will be displayed as 11-hour-old
+* The number of intervals is limited to 10
+* The maximum interval length is limited to 60 minutes
+* The stream is saved with the highest available quality
+* Time intervals are calculated based on local computer time
+* Live stream interruptions (streamer side) may cause a shift in estimated time. For example, if the stream was interrupted for 1 hour, then 12-hour frames will be displayed as 11-hour frames.
 
 ## Requirements
 * FFmpeg executable library
