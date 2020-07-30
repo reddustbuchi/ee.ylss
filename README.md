@@ -1,7 +1,7 @@
 # ee.ylss
-*ee.ylss* (Youtube Live Stream Saver) is a console utility to download the specified time interval of any YouTube livestream - even if it was hours ago. This is not a "current time" recorder - with *ee.ylss* you always have the DVR function, being able to "rewind" the livestream as many hours back as needed.
+*ee.ylss* (Youtube Live Stream Saver) is a console utility to download the specified time interval of any YouTube livestream - even if it was hours ago. This is not a "current time" recorder - with *ee.ylss* you always have the DVR function, being able to "rewind" the livestream as many hours back as needed
 
-[>> download version 20.074](https://github.com/rytsikau/ee.ylss/raw/master/ee.ylss_20.074.zip)
+[>> download version 20.075](https://github.com/rytsikau/ee.ylss/raw/master/ee.ylss_20.075.zip)
 
 ## Program screenshot
 <img src="https://raw.githubusercontent.com/rytsikau/ee.ylss/master/ee.ylss_screenshot.png">
@@ -14,13 +14,13 @@
 ## Usage information
 * Ini file can be specified as an argument when starting the program:
 ```
-"c:\path\to\ee.ylss.exe" "c:\path\to\optional\file.ini"
+"c:\path\to\ee.ylss.exe" "c:\path\to\alternative\file.ini"
 ```
 * The number of intervals is limited to 10
-* The maximum interval length is limited to 60 minutes
-* The stream is saved with the highest available quality
+* The maximum interval duration is limited to 60 minutes
+* The stream is saved with the highest available resolution (but not higher than 1080p)
 * Time intervals are calculated based on local computer time
-* Live stream interruptions (streamer side) may cause a shift in estimated time. For example, if the stream was interrupted for 1 hour, then 12-hour frames will be displayed as 11-hour frames.
+* Live stream interruptions (streamer side) may cause a shift in estimated time. For example, if the stream was interrupted for 1 hour, then 12-hour frames will be displayed as 11-hour frames
 
 ## Requirements
 * FFmpeg executable library
