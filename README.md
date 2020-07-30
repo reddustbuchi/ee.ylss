@@ -8,7 +8,7 @@
 
 ## Quick Start
 1. Unpack the downloaded archive
-2. Open *ee.ylss.ini* in a text editor and fill in according to the existing sample. The minimum information required is the YouTube stream URL and at least one time interval
+2. Open *ee.ylss.ini* in a text editor and fill in according to the existing sample. The minimum information required is the YouTube livestream URL and at least one time interval
 3. Save the ini file and run *ee.ylss.exe*
 
 ## Usage information
@@ -18,8 +18,8 @@
 ```
 * The number of intervals is limited to 10
 * The maximum interval duration is limited to 60 minutes
-* The stream is saved with the highest available resolution (but not higher than 1080p)
-* Time intervals are calculated based on local computer time
+* The stream is saved with the highest available resolution, but not higher than 1080p
+* Time intervals are based on local computer time
 * Live stream interruptions (streamer side) may cause a shift in estimated time. For example, if the stream was interrupted for 1 hour, then 12-hour frames will be displayed as 11-hour frames
 
 ## Requirements
